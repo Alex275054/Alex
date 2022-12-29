@@ -1723,6 +1723,10 @@ textarea.form__input {
     width: 0.9375rem;
     color: #656D72;
   }
+
+  section {
+    padding-top: 3.125rem;
+  }
 }
 
 @media (max-width: 47.8125em) {
