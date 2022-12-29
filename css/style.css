@@ -1702,8 +1702,8 @@ textarea.form__input {
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
-    -ms-flex-wrap: wrap;
-        flex-wrap: wrap;
+    -ms-flex-wrap: wrap-reverse;
+        flex-wrap: wrap-reverse;
     -webkit-box-pack: center;
         -ms-flex-pack: center;
             justify-content: center;
