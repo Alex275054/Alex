@@ -3632,6 +3632,10 @@
             slidesPerView: 3,
             spaceBetween: 56,
             speed: 800,
+            simulateTouch: true,
+            touchRatio: 1,
+            touchAngle: 45,
+            grabCursor: true,
             navigation: {
                 prevEl: ".portfolio__arrow_left",
                 nextEl: ".portfolio__arrow_right"
