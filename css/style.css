@@ -337,6 +337,7 @@ body {
   padding-bottom: 0.3125rem;
   padding-top: 0.3125rem;
   min-height: 123px;
+  background-color: #fff;
 }
 
 .header__logo {
@@ -441,6 +442,14 @@ body {
 
 .footer__social-link:not(:last-child) {
   margin-right: 2rem;
+}
+
+section {
+  padding: 4.375rem;
+}
+
+.home {
+  padding: 15.5rem 0rem;
 }
 
 .home__container {
@@ -1722,10 +1731,6 @@ textarea.form__input {
     height: 0.9375rem;
     width: 0.9375rem;
     color: #656D72;
-  }
-
-  section {
-    padding-top: 4.375rem;
   }
 }
 
